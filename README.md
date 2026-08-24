@@ -78,28 +78,32 @@
 ## 📊 GitHub Activity
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=900" width="100%"/>
+</div>
+
+<div align="center">
 
 <table>
 <tr>
 <td align="center" width="160"><h2>2,744</h2>Contributions<br/><sub>last 12 months</sub></td>
 <td align="center" width="160"><h2>2,015</h2>Contributions<br/><sub>calendar year 2025</sub></td>
 <td align="center" width="160"><h2>141</h2>Commits<br/><sub>Aug 2026 alone</sub></td>
-<td align="center" width="160"><h2>4</h2>Repos actively pushed to<br/><sub>this month</sub></td>
+<td align="center" width="160"><h2>4</h2>Repos pushed to<br/><sub>this month</sub></td>
 </tr>
 </table>
 
-<sub>📌 Pulled straight from my own contribution history — snapshot as of <b>24 Aug 2026</b>. Most of my day-to-day work lives in private client repos, which is why the public stat widgets below used to undercount it (see note underneath).</sub>
+<sub>📌 Pulled straight from my own contribution history — snapshot as of <b>24 Aug 2026</b>. Most of my day-to-day work lives in private client repos, which is why the old public stat widgets undercounted it (see note below).</sub>
 
-</div>
+<br><br>
 
-**Recent activity**
+<img src="https://quickchart.io/chart?bkg=%231a1b27&w=700&h=320&c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%272025%20%28full%20year%29%27%2C%27Last%2012%20months%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Contributions%27%2Cdata%3A%5B2015%2C2744%5D%2CbackgroundColor%3A%5B%27%237c3aed%27%2C%27%232E97F7%27%5D%2CborderRadius%3A8%2CbarThickness%3A60%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Contribution%20Volume%27%2Ccolor%3A%27%23e6e6e6%27%2Cfont%3A%7Bsize%3A18%2Cweight%3A%27bold%27%7D%7D%7D%2Cscales%3A%7Bx%3A%7Bticks%3A%7Bcolor%3A%27%23cccccc%27%2Cfont%3A%7Bsize%3A13%7D%7D%2Cgrid%3A%7Bdisplay%3Afalse%7D%7D%2Cy%3A%7Bticks%3A%7Bcolor%3A%27%23cccccc%27%7D%2Cgrid%3A%7Bcolor%3A%27%23333333%27%7D%2CbeginAtZero%3Atrue%7D%7D%7D%7D" width="75%" alt="Yearly contribution comparison"/>
 
-| Period | Highlights |
-|---|---|
-| **Aug 2026** | 141 commits across 4 repos — 123 to `Aviatorkenya`, 8 to `SMS`, 5 to `bensonmaina`, 5 to `TimSMS` |
-| **Dec 2025** | 235 commits across 3 repos — 228 to `zawadi-Main`, 6 to `zawadi-combined`, 1 to `oauth2-user-management` |
+<br><br>
 
-<div align="center">
+<img src="https://quickchart.io/chart?bkg=%231a1b27&w=600&h=320&c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27Aviatorkenya%27%2C%27SMS%27%2C%27bensonmaina%27%2C%27TimSMS%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Commits%27%2Cdata%3A%5B123%2C8%2C5%2C5%5D%2CbackgroundColor%3A%5B%27%232E97F7%27%2C%27%237c3aed%27%2C%27%2310b981%27%2C%27%23f472b6%27%5D%2CborderRadius%3A6%7D%5D%7D%2Coptions%3A%7BindexAxis%3A%27y%27%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27August%202026%20%E2%80%94%20141%20commits%2C%204%20repos%27%2Ccolor%3A%27%23e6e6e6%27%2Cfont%3A%7Bsize%3A15%2Cweight%3A%27bold%27%7D%7D%7D%2Cscales%3A%7Bx%3A%7Bticks%3A%7Bcolor%3A%27%23cccccc%27%7D%2Cgrid%3A%7Bcolor%3A%27%23333333%27%7D%2CbeginAtZero%3Atrue%7D%2Cy%3A%7Bticks%3A%7Bcolor%3A%27%23cccccc%27%7D%2Cgrid%3A%7Bdisplay%3Afalse%7D%7D%7D%7D%7D" width="48%" alt="August 2026 repo breakdown"/>
+<img src="https://quickchart.io/chart?bkg=%231a1b27&w=600&h=320&c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27zawadi-Main%27%2C%27zawadi-combined%27%2C%27oauth2-user-management%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Commits%27%2Cdata%3A%5B228%2C6%2C1%5D%2CbackgroundColor%3A%5B%27%232E97F7%27%2C%27%237c3aed%27%2C%27%2310b981%27%5D%2CborderRadius%3A6%7D%5D%7D%2Coptions%3A%7BindexAxis%3A%27y%27%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27December%202025%20%E2%80%94%20235%20commits%2C%203%20repos%27%2Ccolor%3A%27%23e6e6e6%27%2Cfont%3A%7Bsize%3A15%2Cweight%3A%27bold%27%7D%7D%7D%2Cscales%3A%7Bx%3A%7Bticks%3A%7Bcolor%3A%27%23cccccc%27%7D%2Cgrid%3A%7Bcolor%3A%27%23333333%27%7D%2CbeginAtZero%3Atrue%7D%2Cy%3A%7Bticks%3A%7Bcolor%3A%27%23cccccc%27%7D%2Cgrid%3A%7Bdisplay%3Afalse%7D%7D%7D%7D%7D" width="48%" alt="December 2025 repo breakdown"/>
+
+<br><br>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonmaina&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
 <img src="https://github-profile-trophy.vercel.app/?username=bensonmaina&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
@@ -112,20 +116,30 @@
 
 GitHub only feeds private-repo commits into your public contribution graph — and into every third-party widget that reads it (`github-readme-stats`, `github-readme-streak-stats`, the activity graph, etc.) — if **"Include private contributions on my profile"** is switched on. That setting lives at **github.com/settings/profile**, under "Contributions."
 
-With it off, those widgets could only see a handful of public commits, which is why they were showing 8 total contributions and a 2-day streak instead of the real 2,744. Flip that setting on once and the dynamic cards self-correct going forward — no more manual updates needed. Until then, the numbers above are your real ones.
+With it off, those widgets could only see a handful of public commits, which is why they were showing 8 total contributions and a 2-day streak instead of the real 2,744. Flip that setting on once and the dynamic cards self-correct going forward — no more manual chart updates needed. Until then, the charts above are your real, hand-verified numbers.
 </details>
 
-<details>
-<summary>🐍 Want the animated contribution snake too?</summary>
 <br>
 
-This repo includes a ready-to-use GitHub Actions workflow (`snake.yml`) that turns your real contribution graph into an animated snake and commits the SVG to an `output` branch automatically, once a day. Drop it into `.github/workflows/snake.yml` on your `bensonmaina/bensonmaina` repo, then add this line here:
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=900" width="100%"/>
+</div>
+
+**🐍 Bonus — animate it:** this repo includes a ready-to-use GitHub Actions workflow (`snake.yml`) that turns your real contribution graph into an animated snake and commits the SVG to an `output` branch once a day.
+
+<details>
+<summary>Setup (2 minutes)</summary>
+<br>
+
+1. Drop `snake.yml` into `.github/workflows/` on your `bensonmaina/bensonmaina` repo
+2. Turn on "Include private contributions" (see note above) so it reflects your real activity
+3. Add this line wherever you want the animation to appear:
 
 ```md
 ![snake gif](https://raw.githubusercontent.com/bensonmaina/bensonmaina/output/github-contribution-grid-snake.svg)
 ```
 
-Once "Include private contributions" is on (see above), the snake will reflect your real activity too.
+It's generated straight from your real commit history via the community `Platane/snk` action — no fake data.
 </details>
 
 <br>
