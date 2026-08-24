@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Benson Maina Waweru</h1>
+<h1 align="center">Hi 👋, I'm Benson Waweru</h1>
 <h3 align="center">IT Systems Auditor & Security Engineer 🔐 | Full-Stack Developer 💻 | CISA · CEH</h3>
 
 <p align="center">
