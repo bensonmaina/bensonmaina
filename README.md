@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Benson%20Maina%20Waweru&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Systems%20Auditor%20%26%20Security%20Engineer%20%20%7C%20%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="assets/banner-header.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E97F7&center=true&vCenter=true&width=750&lines=Auditing+systems+by+day%2C+building+them+by+night+%F0%9F%9B%A1%EF%B8%8F;CISA+%C2%B7+CEH+%C2%B7+5%2B+years+across+AppSec%2C+Audit+%26+Full-Stack+Dev;PHP+%7C+Python+%7C+JavaScript+%7C+React+%7C+Laravel;15%2B+production+apps+shipped+for+clients+worldwide;Based+in+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG"/>
 
@@ -21,21 +21,6 @@
 <a href="#-lets-connect"><img src="https://img.shields.io/badge/-Contact-181717?style=for-the-badge" /></a>
 
 </div>
-
-<br>
-
-## 🧑‍💻 About Me
-
-- 🔍 **CISA-certified** (2022) IT professional with **5+ years** spanning application security, IT systems auditing, and full-stack software development
-- 🛡️ Former **Application Security Engineer** @ Cytonn Investments — vulnerability assessments, penetration testing, incident response & change management
-- 🧑‍💼 **Senior Software Developer** @ Softfy Limited (2019–2022) — architected backend systems at **99.9% uptime**, cut production bugs **35%** through automated testing
-- 💼 **Freelance developer & security consultant** since 2023 — **15+ production web apps** delivered for clients across e-commerce, education, energy & consulting
-- 🎓 **CEH** (Institute of Software Technologies) · **BSc Computer Science**, Dedan Kimathi University of Technology
-- 🏢 Building at **[Infiniti Tech](https://github.com/InfinitiTech)** — tech services, e-commerce, gaming, logistics, payments & a foundation
-- 🌱 Currently sharpening cloud security & CI/CD practices
-- 📍 Nairobi, Kenya
-
-> *A rare dual lens on software: the audit discipline to review controls against recognised standards, and the hands-on depth of someone who has actually built the applications, APIs and databases being reviewed.*
 
 <br>
 
@@ -78,7 +63,7 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=900" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 </div>
 
 <div align="center">
@@ -87,8 +72,8 @@
 <tr>
 <td align="center" width="160"><h2>2,744</h2>Contributions<br/><sub>last 12 months</sub></td>
 <td align="center" width="160"><h2>2,015</h2>Contributions<br/><sub>calendar year 2025</sub></td>
-<td align="center" width="160"><h2>141</h2>Commits<br/><sub>Aug 2026 alone</sub></td>
-<td align="center" width="160"><h2>4</h2>Repos pushed to<br/><sub>this month</sub></td>
+<td align="center" width="160"><h2>410</h2>Commits<br/><sub>Aug 2026 alone</sub></td>
+<td align="center" width="160"><h2>23</h2>Repos pushed to<br/><sub>this month</sub></td>
 </tr>
 </table>
 
@@ -107,12 +92,12 @@
 
 <br><br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonmaina&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
-<img src="https://github-profile-trophy.vercel.app/?username=bensonmaina&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonmaina&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bensonmaina&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&cache_seconds=86400" alt="Trophies"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=900" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 </div>
 
@@ -122,35 +107,6 @@
 
 Production-grade web applications designed, built and deployed end-to-end:
 
-| Project | Description | Built With |
-|---|---|---|
-| 🌾 [**Zawadi Pishori**](https://zawadipishori.co.ke) | E-commerce platform for rice distribution | `Laravel` `React` `MySQL` |
-| 🔒 [**KillNet Switch**](https://killnetswitch.com) | Home security-focused web platform | `PHP` `JavaScript` |
-| ⚡ [**Connect247 Energy**](https://connect247energy.co.ke) | Energy-sector web application | `Laravel` `React` |
-| ⚖️ [**Gakuhi Chege Law**](https://gakuhichege.co.ke) | Law firm platform | `CodeIgniter` `JavaScript` |
-| 🎓 [**Kendege TVC**](https://kendegetvc.ac.ke) | Academic institution portal | `PHP` `MySQL` |
-| 💼 [**Precision Consult**](https://precisionconsult.co.ke) | Professional consulting platform | `Laravel` `React` |
-
-<br>
-
-## 💼 Experience Snapshot
-
-```text
-2023 – Present   Freelance Developer & Security Consultant · Self-employed
-                 15+ production apps · e-commerce, education, energy & consulting clients
-
-2019 – 2022      Senior Software Developer · Softfy Limited
-                 99.9% uptime backend systems · 35% fewer production bugs · mentored juniors
-
-2018 – 2019      Application Security Engineer · Cytonn Investments
-                 Pen testing, vulnerability scans, incident response, change management
-
-2017             IT Support · Asante Media Limited
-```
-
-**Certifications:** CISA (2022) · CEH, Institute of Software Technologies (2018–2021)
-**Education:** BSc Computer Science, Dedan Kimathi University of Technology (2014–2017)
-
 <br>
 
 ## 📫 Let's Connect
@@ -158,7 +114,7 @@ Production-grade web applications designed, built and deployed end-to-end:
 I'm always open to conversations about **application security, IT audit, or full-stack development**. Reach out on [LinkedIn](https://linkedin.com/in/benson-waweru-454625122) or drop a line at **benmainaw@gmail.com**.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="assets/banner-footer.svg" width="100%"/>
 
 ⭐️ From <a href="https://github.com/bensonmaina">bensonmaina</a>
 </div>
