@@ -1,149 +1,157 @@
-<h1 align="center">Hi 👋, I'm Benson Waweru</h1>
-<h3 align="center">IT Systems Auditor & Security Engineer 🔐 | Full-Stack Developer 💻 | CISA · CEH</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Auditing+systems+by+day%2C+building+them+by+night;PHP+%7C+Python+%7C+JavaScript+%7C+React;5%2B+years+in+AppSec%2C+Audit+%26+Full-Stack+Dev;Based+in+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Benson%20Maina%20Waweru&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Systems%20Auditor%20%26%20Security%20Engineer%20%20%7C%20%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bensonmaina&label=Profile%20Views&color=2E97F7&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/bensonmaina?label=Followers&style=flat&color=2E97F7" alt="GitHub followers" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E97F7&center=true&vCenter=true&width=750&lines=Auditing+systems+by+day%2C+building+them+by+night+%F0%9F%9B%A1%EF%B8%8F;CISA+%C2%B7+CEH+%C2%B7+5%2B+years+across+AppSec%2C+Audit+%26+Full-Stack+Dev;PHP+%7C+Python+%7C+JavaScript+%7C+React+%7C+Laravel;15%2B+production+apps+shipped+for+clients+worldwide;Based+in+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG"/>
 
----
+<br>
 
-### 🧑‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=bensonmaina&label=Profile%20Views&color=2E97F7&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/bensonmaina?label=Followers&style=for-the-badge&color=2E97F7" alt="GitHub followers"/>
+<img src="https://img.shields.io/badge/CISA-Certified%202022-2E97F7?style=for-the-badge" alt="CISA"/>
+<img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20On--site-success?style=for-the-badge" alt="Open to work"/>
 
-- 🔍 CISA-certified IT professional with 5+ years spanning **application security, systems auditing, and full-stack development**
-- 🛠️ Former Application Security Engineer — vulnerability assessments, penetration testing, incident response
-- 💼 Freelance developer & consultant since 2023 — 15+ production web apps delivered for clients across e-commerce, education, energy & consulting
+<br><br>
+
+<a href="#-about-me"><img src="https://img.shields.io/badge/-About-181717?style=for-the-badge" /></a>
+<a href="#%EF%B8%8F-tech-stack"><img src="https://img.shields.io/badge/-Tech%20Stack-181717?style=for-the-badge" /></a>
+<a href="#-github-activity"><img src="https://img.shields.io/badge/-GitHub%20Activity-181717?style=for-the-badge" /></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/-Projects-181717?style=for-the-badge" /></a>
+<a href="#-experience-snapshot"><img src="https://img.shields.io/badge/-Experience-181717?style=for-the-badge" /></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/-Contact-181717?style=for-the-badge" /></a>
+
+</div>
+
+<br>
+
+## 🧑‍💻 About Me
+
+- 🔍 **CISA-certified** (2022) IT professional with **5+ years** spanning application security, IT systems auditing, and full-stack software development
+- 🛡️ Former **Application Security Engineer** @ Cytonn Investments — vulnerability assessments, penetration testing, incident response & change management
+- 🧑‍💼 **Senior Software Developer** @ Softfy Limited (2019–2022) — architected backend systems at **99.9% uptime**, cut production bugs **35%** through automated testing
+- 💼 **Freelance developer & security consultant** since 2023 — **15+ production web apps** delivered for clients across e-commerce, education, energy & consulting
+- 🎓 **CEH** (Institute of Software Technologies) · **BSc Computer Science**, Dedan Kimathi University of Technology
 - 🏢 Building at **[Infiniti Tech](https://github.com/InfinitiTech)** — tech services, e-commerce, gaming, logistics, payments & a foundation
 - 🌱 Currently sharpening cloud security & CI/CD practices
 - 📍 Nairobi, Kenya
 
----
+> *A rare dual lens on software: the audit discipline to review controls against recognised standards, and the hands-on depth of someone who has actually built the applications, APIs and databases being reviewed.*
 
-### 🌐 Socials
+<br>
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/benson-waweru-454625122" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:benmainaw@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/bensonmaina" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<a href="https://linkedin.com/in/benson-waweru-454625122" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:benmainaw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/bensonmaina" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
----
+<br>
 
-### 💻 Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<br>
+<img src="https://skillicons.dev/icons?i=php,js,py,html,css,mysql" />
 
 **Frameworks & Libraries**
+<br>
+<img src="https://skillicons.dev/icons?i=laravel,react,django,flask,nodejs,express,jquery" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-</p>
+**UI & State**
+<br>
+<img src="https://skillicons.dev/icons?i=bootstrap,materialui,redux" />
 
 **Databases & Cloud**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws,heroku" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-</p>
+**Security, Tools & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,postman,webpack,npm,graphql,linux" />
 
-**Security, Tools & Practices**
+*(Also working daily with CodeIgniter, OWASP methodology, static/dynamic code analysis, and vulnerability scanning — not all of these have icons yet 😄)*
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
+<br>
 
----
+## 📊 GitHub Activity
 
-### 📊 GitHub Stats
+<div align="center">
 
-> ⚠️ **If any badge below shows blank/broken, see "Fixing broken or inaccurate stats" underneath the table — it's almost always the shared public API being rate-limited or missing your private-repo commits.**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bensonmaina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" alt="Benson's GitHub stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bensonmaina&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bensonmaina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Benson's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonmaina&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bensonmaina&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonmaina&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bensonmaina&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bensonmaina&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bensonmaina&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 
-#### 🔧 Fixing broken or inaccurate stats
+<br>
 
-The stats above hit **free public demo servers** that anyone's profile can call. Two problems fall out of that:
+<img src="https://github-profile-trophy.vercel.app/?username=bensonmaina&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
 
-1. **Undercounted contributions.** `count_private=true` in the URL only *displays* private commits — it can't actually see them unless the server itself has a token with access to your account. The public demo server doesn't, so your real ~1,934 contributions show as a handful.
-2. **Broken/blank badges.** Those same public servers get slammed by millions of profiles and rate-limit or time out, which is why Top Languages / Trophies / Streak sometimes render as plain text links instead of images.
+</div>
 
-**Real fix — deploy your own free instance (5 min, one-time):**
+<details>
+<summary>🐍 Want the animated contribution snake too?</summary>
+<br>
 
-1. Go to https://github.com/anuraghazra/github-readme-stats and click **Deploy** (or **"Deploy on Vercel"**) — this forks the code into your own Vercel account.
-2. In your new Vercel project's settings → Environment Variables, add `PAT_1` = a GitHub [Personal Access Token](https://github.com/settings/tokens) (classic, `repo` scope) so the count includes your private contributions.
-3. Vercel gives you a URL like `https://github-readme-stats-yourname.vercel.app`. Replace `github-readme-stats.vercel.app` in the two `<img src="...">` lines above with your own domain.
-4. Do the same for [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) and [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) if those also break — same "Deploy your own" pattern.
+This repo includes a ready-to-use GitHub Actions workflow (`snake.yml`) that turns your real contribution graph into an animated snake and commits the SVG to an `output` branch automatically, once a day. Drop it into `.github/workflows/snake.yml` on your `bensonmaina/bensonmaina` repo, then add this line here:
 
-Once self-hosted, your numbers stay accurate and the badges stop going down.
+```md
+![snake gif](https://raw.githubusercontent.com/bensonmaina/bensonmaina/output/github-contribution-grid-snake.svg)
+```
 
----
+No fake data — it's generated straight from your real commit history via the community `Platane/snk` action.
+</details>
 
-### 🚀 Featured Projects
+<br>
 
-| Project | Description |
-|---|---|
-| 🌾 [**Zawadi Pishori**](https://zawadipishori.co.ke) | E-commerce platform for rice distribution |
-| 🔒 [**KillNet Switch**](https://killnetswitch.com) | Home security-focused web platform |
-| ⚡ [**Connect247 Energy**](https://connect247energy.co.ke) | Energy-sector web application |
-| ⚖️ [**Gakuhi Chege Law**](https://gakuhichege.co.ke) | Law firm platform |
-| 🎓 [**Kendege TVC**](https://kendegetvc.ac.ke) | Academic institution portal |
-| 💼 [**Precision Consult**](https://precisionconsult.co.ke) | Professional consulting platform |
+## 🚀 Featured Projects
 
----
+Production-grade web applications designed, built and deployed end-to-end:
 
-### 📫 Let's Connect
+| Project | Description | Built With |
+|---|---|---|
+| 🌾 [**Zawadi Pishori**](https://zawadipishori.co.ke) | E-commerce platform for rice distribution | `Laravel` `React` `MySQL` |
+| 🔒 [**KillNet Switch**](https://killnetswitch.com) | Home security-focused web platform | `PHP` `JavaScript` |
+| ⚡ [**Connect247 Energy**](https://connect247energy.co.ke) | Energy-sector web application | `Laravel` `React` |
+| ⚖️ [**Gakuhi Chege Law**](https://gakuhichege.co.ke) | Law firm platform | `CodeIgniter` `JavaScript` |
+| 🎓 [**Kendege TVC**](https://kendegetvc.ac.ke) | Academic institution portal | `PHP` `MySQL` |
+| 💼 [**Precision Consult**](https://precisionconsult.co.ke) | Professional consulting platform | `Laravel` `React` |
+
+<br>
+
+## 💼 Experience Snapshot
+
+```text
+2023 – Present   Freelance Developer & Security Consultant · Self-employed
+                 15+ production apps · e-commerce, education, energy & consulting clients
+
+2019 – 2022      Senior Software Developer · Softfy Limited
+                 99.9% uptime backend systems · 35% fewer production bugs · mentored juniors
+
+2018 – 2019      Application Security Engineer · Cytonn Investments
+                 Pen testing, vulnerability scans, incident response, change management
+
+2017             IT Support · Asante Media Limited
+```
+
+**Certifications:** CISA (2022) · CEH, Institute of Software Technologies (2018–2021)
+**Education:** BSc Computer Science, Dedan Kimathi University of Technology (2014–2017)
+
+<br>
+
+## 📫 Let's Connect
 
 I'm always open to conversations about **application security, IT audit, or full-stack development**. Reach out on [LinkedIn](https://linkedin.com/in/benson-waweru-454625122) or drop a line at **benmainaw@gmail.com**.
 
-<p align="center">⭐️ From <a href="https://github.com/bensonmaina">bensonmaina</a></p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+⭐️ From <a href="https://github.com/bensonmaina">Benson Waweru</a>
+</div>
