@@ -79,22 +79,41 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bensonmaina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" alt="Benson's GitHub stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bensonmaina&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<table>
+<tr>
+<td align="center" width="160"><h2>2,744</h2>Contributions<br/><sub>last 12 months</sub></td>
+<td align="center" width="160"><h2>2,015</h2>Contributions<br/><sub>calendar year 2025</sub></td>
+<td align="center" width="160"><h2>141</h2>Commits<br/><sub>Aug 2026 alone</sub></td>
+<td align="center" width="160"><h2>4</h2>Repos actively pushed to<br/><sub>this month</sub></td>
+</tr>
+</table>
 
-<br>
+<sub>📌 Pulled straight from my own contribution history — snapshot as of <b>24 Aug 2026</b>. Most of my day-to-day work lives in private client repos, which is why the public stat widgets below used to undercount it (see note underneath).</sub>
+
+</div>
+
+**Recent activity**
+
+| Period | Highlights |
+|---|---|
+| **Aug 2026** | 141 commits across 4 repos — 123 to `Aviatorkenya`, 8 to `SMS`, 5 to `bensonmaina`, 5 to `TimSMS` |
+| **Dec 2025** | 235 commits across 3 repos — 228 to `zawadi-Main`, 6 to `zawadi-combined`, 1 to `oauth2-user-management` |
+
+<div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonmaina&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bensonmaina&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-
-<br>
-
 <img src="https://github-profile-trophy.vercel.app/?username=bensonmaina&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
+
+<details>
+<summary>⚙️ Why the old stats/streak card was wrong — and the one-time fix</summary>
+<br>
+
+GitHub only feeds private-repo commits into your public contribution graph — and into every third-party widget that reads it (`github-readme-stats`, `github-readme-streak-stats`, the activity graph, etc.) — if **"Include private contributions on my profile"** is switched on. That setting lives at **github.com/settings/profile**, under "Contributions."
+
+With it off, those widgets could only see a handful of public commits, which is why they were showing 8 total contributions and a 2-day streak instead of the real 2,744. Flip that setting on once and the dynamic cards self-correct going forward — no more manual updates needed. Until then, the numbers above are your real ones.
+</details>
 
 <details>
 <summary>🐍 Want the animated contribution snake too?</summary>
@@ -106,7 +125,7 @@ This repo includes a ready-to-use GitHub Actions workflow (`snake.yml`) that tur
 ![snake gif](https://raw.githubusercontent.com/bensonmaina/bensonmaina/output/github-contribution-grid-snake.svg)
 ```
 
-No fake data — it's generated straight from your real commit history via the community `Platane/snk` action.
+Once "Include private contributions" is on (see above), the snake will reflect your real activity too.
 </details>
 
 <br>
@@ -153,5 +172,5 @@ I'm always open to conversations about **application security, IT audit, or full
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-⭐️ From <a href="https://github.com/bensonmaina">Benson Waweru</a>
+⭐️ From <a href="https://github.com/bensonmaina">bensonmaina</a>
 </div>
