@@ -92,13 +92,15 @@
 
 ### 📊 GitHub Stats
 
+> ⚠️ **If any badge below shows blank/broken, see "Fixing broken or inaccurate stats" underneath the table — it's almost always the shared public API being rate-limited or missing your private-repo commits.**
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=bensonmaina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Benson's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonmaina&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bensonmaina&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=bensonmaina&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -108,6 +110,22 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bensonmaina&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
+
+#### 🔧 Fixing broken or inaccurate stats
+
+The stats above hit **free public demo servers** that anyone's profile can call. Two problems fall out of that:
+
+1. **Undercounted contributions.** `count_private=true` in the URL only *displays* private commits — it can't actually see them unless the server itself has a token with access to your account. The public demo server doesn't, so your real ~1,934 contributions show as a handful.
+2. **Broken/blank badges.** Those same public servers get slammed by millions of profiles and rate-limit or time out, which is why Top Languages / Trophies / Streak sometimes render as plain text links instead of images.
+
+**Real fix — deploy your own free instance (5 min, one-time):**
+
+1. Go to https://github.com/anuraghazra/github-readme-stats and click **Deploy** (or **"Deploy on Vercel"**) — this forks the code into your own Vercel account.
+2. In your new Vercel project's settings → Environment Variables, add `PAT_1` = a GitHub [Personal Access Token](https://github.com/settings/tokens) (classic, `repo` scope) so the count includes your private contributions.
+3. Vercel gives you a URL like `https://github-readme-stats-yourname.vercel.app`. Replace `github-readme-stats.vercel.app` in the two `<img src="...">` lines above with your own domain.
+4. Do the same for [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) and [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) if those also break — same "Deploy your own" pattern.
+
+Once self-hosted, your numbers stay accurate and the badges stop going down.
 
 ---
 
