@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-header.svg" width="100%"/>
+<img src="banner-header.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E97F7&center=true&vCenter=true&width=750&lines=Auditing+systems+by+day%2C+building+them+by+night+%F0%9F%9B%A1%EF%B8%8F;CISA+%C2%B7+CEH+%C2%B7+5%2B+years+across+AppSec%2C+Audit+%26+Full-Stack+Dev;PHP+%7C+Python+%7C+JavaScript+%7C+React+%7C+Laravel;15%2B+production+apps+shipped+for+clients+worldwide;Based+in+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG"/>
 
